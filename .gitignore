@@ -1,0 +1,11 @@
+*.pyc
+db.sqlite3
+*.sock
+log/*
+files/*
+static/*
+RateLimiterApp/migrations/*
+RateLimiter/settings.py
+*.sql
+*.DS_store
+.vscode
